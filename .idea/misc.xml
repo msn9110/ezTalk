@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../../layout/custom_preview.xml" value="0.38333333333333336" />
+        <entry key="app/src/main/res/layout-large/fragment_voice_collect.xml" value="0.7767857142857143" />
+        <entry key="app/src/main/res/layout-normal/fragment_voice_collect.xml" value="0.35260416666666666" />
+        <entry key="app/src/main/res/layout-xlarge/fragment_voice_collect.xml" value="0.16150990099009901" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_recognition2.xml" value="0.35260416666666666" />
+        <entry key="app/src/main/res/layout/fragment_voice_collect.xml" value="1.287828947368421" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
